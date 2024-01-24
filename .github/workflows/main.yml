@@ -1,0 +1,24 @@
+Jan 12
+
+Work: 
+- designed the navigation bar
+- added on click function for all the gategory
+- create set menu function for router use
+
+Jan 15
+work:
+- set up route, the route will link to the navigation bar
+- created and design header of the main page
+- create Item file, this will format the product pictures and detail
+- create popular, offer, new collection section; picture and detail will display base on item file
+
+Jan 20
+- added footer
+- create context file, this imports all the setting for products, such as size, gategory, price... and use createcontext from react library
+- added banner for different category
+- create category file, this will base on the data(product detail), display the correct product in different section base on the item format
+
+Jan 22
+work: 
+-finishe login section
+- design single production page
