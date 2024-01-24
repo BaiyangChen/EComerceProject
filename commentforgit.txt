@@ -1,0 +1,10 @@
+Ls -la:   show the hidden files
+git status:   check if everything is configure correctly, it can see the changes that need to be committed or untracked file
+
+Rm -rf .git :  remove .git directory
+Git rm —cached path/to/…:    clear cashed submodule
+Git add “folder name”:   add git files to main repository
+Git commit -m “description”:   commit
+Git push:    push
+Git clone [repository url]:   clone url from repository
+Git log --graph  - -oneline - -decorate:        show graph of commits
